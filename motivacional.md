@@ -69,8 +69,6 @@ function desistir(o) {
 desistir(false); // <---- :D ;)
 ```
 
-**Filtrar**
-
 **Seja a melhor versão de si mesmo**
 
 ```js
@@ -93,6 +91,8 @@ System.err.println(
   "menores do que os de amanhã."
 );
 ```
+
+**Filtrar**
 
 ```js
 // Como filtrar as coisas boas da vida

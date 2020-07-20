@@ -10,5 +10,7 @@
 
 * [Motivacional](./motivacional.md)
 
-* [Pensamentos](./pensamentos.md)
+* [Pensamentos I](./pensamentos.md)
+
+* [Pensamentos II](./pensamentos2.md)
 

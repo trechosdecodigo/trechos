@@ -349,3 +349,27 @@ while(plantar){
     "ter feito ele nascer."
   );
 ```
+
+**Memórias**
+
+```dart
+void main() {
+
+  String m = "Memórias, tristes memórias…";  
+  // Poderiam ser sempre voláteis em nossas mentes.'
+  // Mas às vezes insistem em ser permanentes... 
+  
+  print(m);
+  tentarEsquecer(m); // :(
+  print(m);
+
+  m = ''; // :D
+  print(m);
+}
+
+tentarEsquecer(String mem) {
+  mem = '';
+}
+```
+
+

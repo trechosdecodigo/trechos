@@ -13,7 +13,13 @@ function amor() {
   console.log(resultado);
 }
 
-// Saída: Infinit
+// Saída: Infinity
+```
+
+**Gráficos da sua beleza** por [Maxwell Soares]()
+
+```dart
+print('Nem a melhor placa de vídeo poderá renderizar os gráficos da sua beleza.');
 ```
 
 **CSS**
