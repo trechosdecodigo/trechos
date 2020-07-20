@@ -43,7 +43,7 @@ end vc;
 select vc() from dual;
 ```
 
-**Substituído** por [Amanda Segundo](https://github.com/amandasegundo)
+**Substituído**
 
 ```py
 def auto():
@@ -60,7 +60,7 @@ def auto():
     return
 ```
 
-**Tudo certo** por [Amanda Segundo](https://github.com/amandasegundo)
+**Tudo certo**
 
 ```js
 function vida() {
@@ -78,7 +78,7 @@ function aqueleCodigo() {
 }
 ```
 
-**Mulher** por [Amanda Segundo](https://github.com/amandasegundo)
+**Mulher**
 
 ```js
 function sucesso() {
@@ -90,7 +90,7 @@ function sucesso() {
 }
 ```
 
-**Criar** por [Amanda Segundo](https://github.com/amandasegundo)
+**Criar**
 
 ```sql
 -- Não somos deuses,
@@ -107,7 +107,7 @@ CREATE TABLE `planeta` (
   PRIMARY KEY (`CODIGO`));
 ```
 
-**Editor querido** por [Amanda Segundo](https://github.com/amandasegundo)
+**Editor querido**
 
 ```js
 console.log(""
@@ -135,7 +135,7 @@ function queridinho() {
     + "não têm lógica.");
 ```
 
-**Promessas** por [Amanda Segundo](https://github.com/amandasegundo)
+**Promessas**
 
 ```js
 function fazerPromessas() {
@@ -162,7 +162,7 @@ function fazerPromessas() {
 }
 ```
 
-**Se quero, logo crio** por [Amanda Segundo](https://github.com/amandasegundo)
+**Se quero, logo crio**
 
 ```html
 <html>
@@ -173,7 +173,7 @@ function fazerPromessas() {
 </html>
 ```
 
-**Sofrer Antecipado** por [Amanda Segundo](https://github.com/amandasegundo)
+**Sofrer Antecipado**
 
 ```js
 const algo = "Não sofra antecipado";
@@ -185,7 +185,7 @@ const algo = "Não sofra antecipado";
 //}
 ```
 
-**Tema do editor** por [Amanda Segundo](https://github.com/amandasegundo)
+**Tema do editor**
 
 ```js
 console.log(""
@@ -195,7 +195,7 @@ console.log(""
   + "do editor");
 ```
 
-**Commitado** por [Amanda Segundo](https://github.com/amandasegundo)
+**Commitado**
 
 ```sql
 delete 
@@ -221,7 +221,7 @@ console.log(""
   + "vazio.");
 ```
 
-**Delete sem where** por [Amanda Segundo](https://github.com/amandasegundo)
+**Delete sem where**
 
 ```sql
 /*
@@ -234,7 +234,7 @@ delete dinheiro;
 commit;
 ```
 
-**Errar** por [Amanda Segundo](https://github.com/amandasegundo)
+**Errar**
 
 ```html
 <html>
@@ -249,7 +249,7 @@ commit;
 ```
 
 
-**Linguagem** por [Amanda Segundo](https://github.com/amandasegundo)
+**Linguagem**
 
 ```java
 System.out.println(""
@@ -260,7 +260,7 @@ System.out.println(""
         + "para alguém.");
 ```
 
-**Programar sempre** por [Amanda Segundo](https://github.com/amandasegundo)
+**Programar sempre**
 
 ```py
 print('Posso até '
@@ -272,7 +272,7 @@ print('Posso até '
       'de programar.')
 ```
 
-**Tipos de testes** por [Amanda Segundo](https://github.com/amandasegundo)
+**Tipos de testes**
 
 ```py
 def testes():
@@ -288,7 +288,7 @@ def testes():
   return
 ```
 
-**Versões anteriores** por [Amanda Segundo](https://github.com/amandasegundo)
+**Versões anteriores**
 
 ```js
   console.log(""
@@ -311,4 +311,41 @@ def vida(option):
     else:
         another_action()
     return
+```
+
+**Projeto** por [Desconhecido]()
+
+```js
+const VARIABLE = ""
+    + "A única "
+    + "constante "
+    + "de um "
+    + "projeto "
+    + "é a "
+    + "variável.";
+```
+
+**Colher bugs**
+
+```js
+//Quando falam:
+console.log(
+    "A gente colhe o que planta."
+);
+//O que eu penso:
+const plantar = true;
+while(plantar){
+  alert("BUGS");
+  sync_wait();
+}
+```
+
+**Criar bugs**
+
+```java
+  System.err.println(
+    "O problema não é o bug, " +
+    "o problema foi você " +
+    "ter feito ele nascer."
+  );
 ```

@@ -1,6 +1,6 @@
 # Amor
 
-**Amor infinito** por [Amanda Segundo](https://github.com/amandasegundo)
+**Amor infinito**
 
 ```JavaScript
 /**
@@ -16,7 +16,7 @@ function amor() {
 // Saída: Infinit
 ```
 
-**CSS** por [Amanda Segundo](https://github.com/amandasegundo)
+**CSS**
 
 ```js
 //------------------------<3
@@ -50,7 +50,42 @@ echo "para o seu IP"
 echo "----------**----------"
 ```
 
-**Mesmo pacote** por [Amanda Segundo](https://github.com/amandasegundo)
+**Amor hacker** por [Rafael Sousa](https://www.instagram.com/hackingnaweboficial/)
+
+```sh
+hacked="Você burlou minhas proteções e encontrou uma forma de executar comandos remotos (RCE) em mim."
+consequences="Agora não consigo parar de pensar em você."
+echo $hacked
+echo $consequences
+```
+
+**Repositório**
+
+```sh
+λ git commit -m "Dia incrível" -m "Queria guardar em um repositório Git todos os bons momentos que tive com você, assim tenho a certeza de que nunca irei esquecer."
+```
+
+**Sábios** por [Duzz]()
+
+```js
+ReactDOM.render(
+  <h1>
+    Seguindo o fluxo que
+    acompanha o meu ritmo,
+    você é a falha perfeita
+    que atrapalha meu algoritmo.
+  </h1>,
+  document.getElementById('root')
+);
+```
+
+**Resolver bugs**
+
+```rb
+puts "Basta pensar em você que logo consigo resolver meus bugs!";
+```
+
+**Mesmo pacote**
 
 ```sql
 -- Se for para sermos funções,
@@ -65,7 +100,7 @@ end PGK_VIDA;
 /
 ```
 
-**Union** por [Amanda Segundo](https://github.com/amandasegundo)
+**Union**
 
 ```sql
 dbms_output.put_line(
@@ -75,3 +110,120 @@ dbms_output.put_line(
   'um UNION.'
 );
 ```
+
+**Build quebrado**
+
+```php
+echo "\n**--------------------------";
+echo "--------------------------**\n";
+echo "\n</3\n";
+echo "Assim como eu quebro o build, ";
+echo "você quebra meu coração.";
+echo "\n</3\n";
+echo "\n**--------------------------";
+echo "--------------------------**\n";
+?>
+```
+
+**Te ver**
+
+```sql
+/*
+ * Quando te vejo
+ * a trigger do meu coração
+ * dispara um ‘Eu te quero’.
+ */
+create or replace trigger heart_trigger
+before insert or update on heart
+for each row
+
+begin
+  
+  if :new.you is not null then
+    raise_application_error(-20000, 'Eu te quero');
+  end if;
+
+end heart_trigger;
+/
+
+create table heart (you varchar2(64));
+insert into heart (you) values('teste');
+commit; 
+```
+
+**Inspiração**
+
+```c
+#include <stdio.h>
+
+int main()
+{
+    printf("Você é a inspiração dos meus melhores códigos...\n");
+    
+    int tam = 24;
+    char e[24]= ".mébmat seroip sod e...";
+    int i;
+    for( i = (tam -1) ; i >=0; i--)
+    {
+        printf("%c", e[i]);
+    }
+    return 0;
+}
+```
+
+**Distância**
+
+```
+Não é a distância que nos separa,
+é a qualidade da sua internet.
+
+_________________________________
+__________00000___00/00__________
+_________0000000_00/0000_________
+_________000000/\/000000_________
+__________0000/00000000__________
+_____________/000000_____________
+_______________000_______________
+_________________________________
+
+```
+
+**Classe abstrata**
+
+```java
+public class TrechosDeCodigo1
+  extends HeartAbstractClass {
+
+  @Override
+  void love() {
+    System.out.println(
+      "Assim como uma " +
+      "classe abstrata " +
+      "pede para seus " +
+      "métodos implementar, " +
+      "meu coração " +
+      "pede para te amar."
+    );
+  }
+}
+```
+
+**Debugger**
+
+```js
+function vida() {
+
+  iniciar(
+    "Queria que a vida fosse um script,"
+  );
+
+  validar(
+    "para que no momento em que eu te olhar,"
+  );
+  vc();
+  //um
+  debugger; // executar  
+  //e a sua beleza em cada detalhe admirar.
+}
+```
+
